@@ -3,5 +3,8 @@
   <component name="Black">
     <option name="sdkName" value="Python 3.7 (pythonProject)" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.7 (pythonProject)" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" default="true" project-jdk-name="Python 3.14" project-jdk-type="Python SDK" />
+  <component name="ProjectType">
+    <option name="id" value="jpab" />
+  </component>
 </project>
