@@ -1,0 +1,8 @@
+=== Содержимое resources/file1.txt ===
+Hello world!
+
+=== Содержимое resources/file2.txt ===
+My name is Apteemka.
+
+=== Содержимое resources/file3.txt ===
+How do you do?
